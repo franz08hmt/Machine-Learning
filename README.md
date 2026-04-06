@@ -1,2 +1,1 @@
-# Machine-Learning
-push all knowledge and homework about Machine Learning to save
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thienphuc1310/Machine-Learning/blob/model-1-phuc/_downloads/cifar10_tutorial.ipynb)
